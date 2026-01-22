@@ -2,8 +2,7 @@
 
 A simple and interactive **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**.
 
-🔗 **Live Demo:**  
-https://vaishnavi-bhatale.github.io/Rock-Paper-scissors-Game/
+🔗 **Live Demo:**  [Play Rock Paper Scissors Online](https://vaishnavi-bhatale.github.io/Rock-Paper-scissors-Game/)
 
 ---
 
@@ -48,4 +47,5 @@ The computer makes a random choice, and the winner is decided based on classic g
 1. Clone the repository:
    ```bash
    git clone https://github.com/vaishnavi-bhatale/Rock-Paper-scissors-Game.git
+
 
